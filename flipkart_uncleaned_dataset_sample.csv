@@ -1,0 +1,42 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Mode,Rating
+1000,6/3/2023,Vihaan,Delhi,Keyboard,Accessories,1,19057,19057,UPI,3
+1001,8/28/2023,Kavya,Pune,Tablet,Electronics,2,48517,97034,Net Banking,4
+1002,4/6/2023,Meera,Hyderabad,Headphones,Accessories,2,46178,92356,Debit Card,3
+1003,9/30/2023,Kiran,Kolkata,Laptop,Electronics,5,18562,92810,Credit Card,5
+1004,8/11/2024,Aisha,Mumbai,Laptop,Electronics,2,25552,51104,Debit Card,2
+1005,5/1/2024,Neha,Chennai,Printer,Electronics,2,28961,57922,Credit Card,5
+1006,8/21/2024,Kavya,Kolkata,Headphones,Accessories,2,36472,72944,Credit Card,3
+1007,9/7/2024,Ishaan,Jaipur,Tablet,Electronics,5,15783,78915,Credit Card,2
+1008,9/20/2024,Aisha,Hyderabad,Printer,Electronics,1,40277,40277,Cash,5
+1009,3/9/2023,Divya,Hyderabad,Keyboard,Accessories,2,3451,6902,Cash,1
+1010,12/7/2024,Divya,Bangalore,Camera,Electronics,5,25241,126205,Net Banking,5
+1011,2/19/2023,Meera,Mumbai,Camera,Electronics,5,7407,37035,UPI,1
+1012,9/21/2024,Rohan,Jaipur,Camera,Electronics,4,21218,84872,Debit Card,2
+1013,7/20/2024,Meera,Jaipur,Monitor,Electronics,2,14533,29066,Net Banking,1
+1014,10/21/2023,Divya,Kolkata,Mobile,Electronics,5,19063,95315,UPI,1
+1015,10/21/2023,Rahul,Kolkata,Tablet,Electronics,1,28970,28970,UPI,1
+1016,7/31/2023,Rahul,Pune,Tablet,Electronics,3,17244,51732,Debit Card,5
+1017,4/26/2024,Ishaan,Bangalore,Printer,Electronics,3,32669,98007,UPI,1
+1018,3/19/2023,Neha,Pune,Tablet,Electronics,5,19797,98985,Net Banking,5
+1019,3/2/2024,Krishna,Chennai,Monitor,Electronics,5,13608,68040,Cash,3
+1020,12/9/2024,Rohan,Delhi,Printer,Electronics,4,28610,114440,Debit Card,2
+1021,11/3/2023,Arjun,Pune,Camera,Electronics,2,32753,65506,UPI,2
+1022,2/17/2023,Riya,Jaipur,Monitor,Electronics,2,7541,15082,Net Banking,1
+1023,2/8/2023,Priya,Pune,Mobile,Electronics,4,10991,43964,Debit Card,4
+1024,2/1/2023,Sneha,Pune,Headphones,Accessories,2,45037,90074,Net Banking,2
+1025,6/28/2024,Aarav,Mumbai,Keyboard,Accessories,3,43021,129063,Debit Card,3
+1026,1/12/2024,Krishna,Pune,Keyboard,Accessories,2,29745,59490,Credit Card,5
+1027,5/16/2023,Pooja,Bangalore,Printer,Electronics,5,12457,62285,Cash,2
+1028,7/1/2023,Divya,Chennai,Laptop,Electronics,5,20058,100290,Credit Card,4
+1029,6/6/2023,Riya,Kolkata,Tablet,Electronics,3,15045,45135,Net Banking,5
+1030,4/10/2023,Rohan,Chennai,Monitor,Electronics,3,8489,25467,Net Banking,1
+1031,5/9/2023,Aditya,Bangalore,Camera,Electronics,5,25638,128190,Net Banking,2
+1032,10/16/2023,Kiran,Pune,Laptop,Electronics,4,17719,70876,Debit Card,1
+1033,6/21/2023,Meera,Kolkata,Keyboard,Accessories,3,42463,127389,Net Banking,2
+1034,2/23/2024,Sneha,Chennai,Laptop,Electronics,4,29949,119796,Credit Card,5
+1035,11/6/2023,Meera,Kolkata,Printer,Electronics,1,34386,34386,Cash,1
+1036,7/25/2024,Sneha,Kolkata,Tablet,Electronics,1,40367,40367,Cash,1
+1037,8/21/2023,Arjun,Kolkata,Camera,Electronics,2,39789,79578,Debit Card,2
+1038,9/9/2024,Kavya,Chennai,Keyboard,Accessories,5,30022,150110,UPI,4
+1039,7/1/2024,Meera,Hyderabad,Keyboard,Accessories,1,25911,25911,Debit Card,3
+1040,2/18/2023,Meera,Chennai,Keyboard,Accessories,3,11000,33000,Net Banking,4
